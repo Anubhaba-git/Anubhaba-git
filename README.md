@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
 
 - 📫 How to reach me **anubhabasahani87@gmail.com**
@@ -28,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhaba-git&show_icons=true&locale=en" alt="anubhaba-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhaba-git&" alt="anubhaba-git" /></p>
+<img align="right" alt="coding" width="1500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dzaW5nMmZreGd6bHVhcDlkYXp5YXQ0ZnpoMjkxM2Jjbm5memdqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
