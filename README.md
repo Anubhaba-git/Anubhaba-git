@@ -5,11 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anubhaba+Sahani&color=cyan&center=true" />
   </h3>
 </div>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">"Aspiring Software Engineer | Passionate About Tech and Innovation | Inspired by Technology"</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
+
+  -  💻🌐I’m currently diving into **Web Development** 💡✨
+
+-  🌱💻 I'm exploring the world of **React** and building my skills 🔥🚀
 
 - 📫 How to reach me **anubhabasahani87@gmail.com**
 
