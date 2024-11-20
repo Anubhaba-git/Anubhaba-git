@@ -1,6 +1,10 @@
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-<h1 align="center">Hi 👋, I'm Anubhaba Sahani</h1>
+<div align="center">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anjan+Kumar+Das&color=cyan&center=true" />
+  </h3>
+</div>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
