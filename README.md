@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anubhabasahani87@gmail.com**
 
-- ⚡ Fun fact is Im Fresher !!
+- ⚡ Fun fact is Im **Fresher !!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
