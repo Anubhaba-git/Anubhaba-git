@@ -1,10 +1,11 @@
 <div align="center">
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Hi+👋,+I'm+Anubhaba+Sahani&color=cyan&center=true" />
-  </h3>
+    <img src = "https://readme-typing-svg.herokuapp.com/?lines=Hey👋,+I'm+Anubhaba+Sahani;+I'm+a+Techie+💻;+I'm+a+Fullstack+Developer;+I'm+a+MERN+Stack+Developer;+I'm+a+Frontend+Developer&color=cyan&center=true">
+ </h3>
 </div>
-<h3 align="center">"Aspiring Software Engineer | Passionate About Tech and Innovation | Inspired by Technology"</h3>
-
+<h3 align="center">"Aspiring Software Engineer | Passionate About Tech and Innovation | Inspired by Technology"</h3> 
+<hr style="width:50%;text-align:left;margin-left:0;">
+    
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
