@@ -12,7 +12,7 @@
 
   -  💻🌐I’m currently diving into **Web Development** 💡✨
 
--  🌱💻 I'm exploring the world of **React** and building my skills 🔥🚀
+-  🌱💻 I'm exploring the world of **React** and building my skills🔥🚀
 
 - 📫 How to reach me **anubhabasahani87@gmail.com**
 
