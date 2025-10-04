@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
 
-  -  💻🌐I’m currently diving into **Web Development** 💡✨
+  -  ⚙️💻 Growing as a **Java Fullstack Developer**, crafting both beautiful frontends and powerful backends! ✨☕
 
--  🌱💻 I'm exploring the world of **React** and building my skills🔥🚀
+- ☕⚙️ Exploring the backend world with **Java**, one API at a time! 🌟💻
 
 - 📫 How to reach me **anubhabasahani87@gmail.com**
 - 🌐 Look at [ My Portfolio](https://anubhabasahani-portfolio.netlify.app/)
