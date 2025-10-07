@@ -18,7 +18,7 @@
 - 🌐 Look at [ My Portfolio](https://anubhabasahani-portfolio.netlify.app/)
 
 
-- ⚡ Fun fact is Im **Novice !!** 🐾
+- ⚡ Fun fact: **Just a novice, but curiosity fuels me! 🐾** 🐾
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
