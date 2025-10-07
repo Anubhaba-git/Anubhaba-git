@@ -18,7 +18,7 @@
 - 🌐 Look at [ My Portfolio](https://anubhabasahani-portfolio.netlify.app/)
 
 
-- ⚡ Fun fact is Im **Fresher !!**
+- ⚡ Fun fact is Im **Novice !!** 🐾
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
