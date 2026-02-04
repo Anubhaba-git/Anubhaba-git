@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaba-git&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaba-git" /> </p>
 
   -  Aspiring Java Full Stack Developer with a strong interest in building responsive frontends and scalable backend applications.
-  - 🤝 Open to collaboration, learning opportunities, and entry-level roles.
+  - Open to collaboration, learning opportunities, and entry-level roles.
     
 - ☕Learning how things work behind the scenes, step by step.😅
 
